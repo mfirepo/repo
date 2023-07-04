@@ -7,8 +7,8 @@
     <import addon="script.module.unidecode" />
     <import addon="script.module.inputstreamhelper" />
     <import addon="script.module.resolveurl"/>
-	<import addon="plugin.video.youtube" />
-	<import addon="script.module.bolt"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.bolt"/>
     <!--<import addon="name" />-->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
